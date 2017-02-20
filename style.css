@@ -1,0 +1,53 @@
+/* CSS reset */
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  width: 970px;
+  background-color: #1f345c	;
+  margin: 0px;
+  margin-right: 0px;
+  padding: 10px;
+  color: #c3d6eb;
+}
+header{
+  background-color: #cd2836;
+  border-radius: 15px;
+  padding: 15px;
+  margin-bottom:20px;
+}
+a{
+  color:#67dce3;
+}
+ul{
+  padding-left:15px;
+}
+.side_menu{
+  background-color: #2e7d8c;
+  border-radius:15px;
+  display:inline-block;
+  width: 200px;
+  vertical-align: top;
+  padding: 10px;
+  margin-right: 15px;
+}
+.main_content{
+  background-color: #0f1822;
+  border-radius: 15px;
+  display:inline-block;
+  width: 680px;
+  padding:20px;
+}
+.main_content *{
+  margin: 10px 0px;
+}
+.color_blue{
+  color:#36349c;
+}
+footer{
+  background-color: #5e6672;
+  border-radius: 15px;
+  margin-top: 20px;
+  padding: 15px;
+}
